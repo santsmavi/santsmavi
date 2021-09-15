@@ -1,4 +1,4 @@
-### Olá! Eu sou a Mavi! 👋
+### Olá! Eu sou a Maria Vitória mas pode me chamar de mavi! 👋
 
 - 🔭 Procurando por oportunidades 
 - 🌱 Atualmente estudando Javascript

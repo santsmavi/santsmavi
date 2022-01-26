@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Vitória mas pode me chamar de Mavi! 👋
 
 - 🔭 Procurando por oportunidades 
-- 🌱 Atualmente estudando Javascript
+- 🌱 Atualmente estudando PHP e MySQL
 - 😄 Pronomes: ela/dela
 
 <div>

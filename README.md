@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maria Vitória mas pode me chamar de Mavi! 👋
 
-- 🔭 Procurando por oportunidades 
+- 🔭 Analista Desenvolvedora Servicenow
 - 🌱 Atualmente estudando Javacript
 - 😄 Pronomes: ela/dela
 
